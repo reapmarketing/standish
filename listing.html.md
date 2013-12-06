@@ -3,7 +3,7 @@
 'title': 'Listings'
 ---
 
-Here are the Special Fields for Setting up a a product:
+Here are the Special Fields for setting up a a product:
 
 
 #### Field 2 Brochure
