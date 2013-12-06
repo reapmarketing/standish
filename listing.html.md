@@ -13,7 +13,7 @@ Here are the Special Fields for setting up a product:
 
 #### <a name="brochure"></a>Field 2 Brochure
 
-This should be an absolute link to the promotional brochure pdf. It replaces the 'Download Catalog' link with 'Download Brochure' - Part of HubSpot integration
+This should be an absolute link to the promotional brochure pdf. It replaces the 'Download Catalog' link with 'Download Brochure' - Info used with HubSpot
 
 #### <a name="details"></a>Field 7 - Product Details list
 
