@@ -147,4 +147,4 @@ Reserve for Social Media Message Tweet (140 Characters [or 120 with room for lin
 
 #### Field 10 - Video
 
-Reserve for including video embed code
+Include video embed codes here. Make sure the field is completely empty to deactivate it.
