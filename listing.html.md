@@ -3,10 +3,15 @@
 'title': 'Listings'
 ---
 
-Here are the Special Fields for Setting up a a product:
+Here are the Special Fields for setting up a product:
+[Brochure](#brochure)
+Details
+Badges
+Blurb
+Video
 
 
-#### Field 2 Brochure
+#### <a name="brochure"></a>Field 2 Brochure
 
 This should be an absolute link to the promotional brochure pdf. It replaces the 'Download Catalog' link with 'Download Brochure'
 
