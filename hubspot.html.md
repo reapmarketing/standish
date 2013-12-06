@@ -23,7 +23,7 @@ The forms JavaScript is already included by the template.
 
 This stops the HubSpot form from importing its own styles, which will mess up our custom styles, the footer form, and any modal forms.
 
-## Example
+### Example
 
 #### Modified Code
 
