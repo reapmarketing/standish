@@ -1,6 +1,6 @@
 ---
-'layout': 'wiki'
-'title': 'Listing Template'
+'layout': 'Default'
+'title': 'Listings'
 ---
 
-Welcome to this new page.
+Welcome to the page
