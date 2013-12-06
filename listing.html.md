@@ -4,22 +4,22 @@
 ---
 
 Here are the Special Fields for setting up a product:
-[Brochure](#brochure)
-Details
-Badges
-Blurb
-Video
 
+* [field_2 Brochure](#brochure)
+* [field_7 Details](#details)
+* [field_8 Badges](#badge)
+* [field_9 Blurb](#blurb)
+* [field_10 Video](#video)
 
 #### <a name="brochure"></a>Field 2 Brochure
 
-This should be an absolute link to the promotional brochure pdf. It replaces the 'Download Catalog' link with 'Download Brochure'
+This should be an absolute link to the promotional brochure pdf. It replaces the 'Download Catalog' link with 'Download Brochure' - Part of HubSpot integration
 
-#### Field 7 - Product Details list
+#### <a name="details"></a>Field 7 - Product Details list
 
 Each line will become a list item.
 
-#### Field 8 - Badges
+#### <a name="badge"></a>Field 8 - Badges
 
 Add badge slugs, 1 per line, to activate them on the page.
 
@@ -146,10 +146,10 @@ Add badge slugs, 1 per line, to activate them on the page.
 
 <textarea id="badges" style="height:160px; padding: 10px" placeholder="Click badges above then copy slugs from here into the product listing"></textarea>
 
-#### Field 9 - Social Media Blurb (Tweet)
+#### <a name="blurb"></a>Field 9 - Social Media Blurb (Tweet)
 
 Reserve for Social Media Message Tweet (140 Characters [or 120 with room for link])
 
-#### Field 10 - Video
+#### <a name="video"></a>Field 10 - Video
 
 Include video embed codes here. Make sure the field is completely empty to deactivate it.
