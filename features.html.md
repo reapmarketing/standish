@@ -15,3 +15,6 @@ Spots are bits of markup added to the site via the 3DCart Admin.
 
  1. Minimize Inline Styles
  2. Semantic Markup (KISS)
+
+
+new content
