@@ -28,4 +28,6 @@ Button States?
 <br><br>
 <button class="medium">Add to Cart<span class="add-on-right"><i class="icon-shopping-cart"></i></span></button> 
 
-	<button class="medium">Add to Cart<span class="add-on-right"><i class="icon-shopping-cart"></i></span></button> 
+	<button class="medium">Add to Cart<span class="add-on-right"><i class="icon-shopping-cart"></i></span></button>
+	
+This is s a change to the wiki
