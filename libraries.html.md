@@ -25,6 +25,10 @@ The icons are really just a font (awesome right?), so control them with text sty
 
 ## Cycle 2
 
+Most of these demos can be copy pasted into the site. They will work because Cycle2 is already active on the site.
+
+[http://jquery.malsup.com/cycle2/demo/](http://jquery.malsup.com/cycle2/demo/)
+
 Configure slideshows via HTML data-attributes using the [Cycle API](http://jquery.malsup.com/cycle2/api/)
 
 Example Code:
