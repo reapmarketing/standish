@@ -5,9 +5,9 @@ title: 'New Callouts'
 
 # 'New' Link Callouts
 
-This is the commit that added the buttons:
+Modify this file to add more callouts
 
-https://bitbucket.org/reapmarketing/new-standish-template/commits/9f043b0333356946623e717c1835e26aeaa17397
+[https://github.com/Hyprtxt/standish/blob/master/scripts/hacks.js](https://github.com/Hyprtxt/standish/blob/master/scripts/hacks.js)
 
 ## Adding the element with JavaScript
 
