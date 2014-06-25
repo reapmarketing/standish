@@ -6,6 +6,7 @@
 Here are the Special Fields for setting up a product:
 
 * [field_2 Brochure](#brochure)
+* [field_3 Shipping Message](#ship)
 * [field_7 Details](#details)
 * [field_8 Badges](#badge)
 * [field_9 Blurb](#blurb)
@@ -14,6 +15,10 @@ Here are the Special Fields for setting up a product:
 #### <a name="brochure"></a>Field 2 Brochure
 
 This should be an absolute link to the promotional brochure pdf. It replaces the 'Download Catalog' link with 'Download Brochure' - Info used with HubSpot
+
+#### <a name="ship"></a>Field 3 Shipping Message
+
+If present, this value will replace the "Quick Shipping: Ships in about 2 weeks" message with whatever you provide.
 
 #### <a name="details"></a>Field 7 - Product Details list
 
