@@ -7,6 +7,7 @@ Here are the Special Fields for setting up a product:
 
 * [field_2 Brochure](#brochure)
 * [field_3 Shipping Message](#ship)
+* [field_4 Instagram Hashtag](#instagram)
 * [field_7 Details](#details)
 * [field_8 Badges](#badge)
 * [field_9 Blurb](#blurb)
@@ -19,6 +20,10 @@ This should be an absolute link to the promotional brochure pdf. It replaces the
 #### <a name="ship"></a>Field 3 Shipping Message
 
 If present, this value will replace the "Quick Shipping: Ships in about 2 weeks" message with whatever you provide.
+
+#### <a name="instagram"></a>Field 4 - Instagram Integration
+
+You can provide a hashtag that will pull in images from instagram. The last 3 images from the hashtag will be displayed.
 
 #### <a name="details"></a>Field 7 - Product Details list
 
