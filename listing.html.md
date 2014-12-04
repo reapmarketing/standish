@@ -8,6 +8,7 @@ Here are the Special Fields for setting up a product:
 * [field_2 Brochure](#brochure)
 * [field_3 Shipping Message](#ship)
 * [field_4 Instagram Hashtag](#instagram)
+* [field_5 First to Know Hubspot Form Popup](#hubspot)
 * [field_7 Details](#details)
 * [field_8 Badges](#badge)
 * [field_9 Blurb](#blurb)
@@ -24,6 +25,14 @@ If present, this value will replace the "Quick Shipping: Ships in about 2 weeks"
 #### <a name="instagram"></a>Field 4 - Instagram Integration
 
 You can provide a hashtag that will pull in images from instagram. The last 3 images from the hashtag will be displayed.
+
+#### <a name="hubspot"></a>Field 5 - First to Know Hubspot Form
+
+Provide a HubSpot form id in this field to activate the feature. All you need is the ID, which looks something like this: 
+
+`d12b31e2-f964-4859-b066-87dad64d66b1`
+
+This adds the "first to know" button beneath the product options which activates the form in a vex popup.
 
 #### <a name="details"></a>Field 7 - Product Details list
 
